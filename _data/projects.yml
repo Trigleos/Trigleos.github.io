@@ -35,8 +35,7 @@
     - tag: ftp
 
 - name: Obfuscation toolsuite
-  descr: "Currently working on an obfuscation toolsuite that employs several techniques to obfuscate ELF files, both on a source level as well as on the already compiled ELF
-One part of it, the ELFREVGO tool, is already available at https://github.com/Trigleos/ELFREVGO"
+  descr: "Currently working on an obfuscation toolsuite that employs several techniques to obfuscate ELF files, both on a source level as well as on the already compiled ELF"
   tags:
    - tag: ELF
    - tag: GOLANG

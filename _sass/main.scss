@@ -18,8 +18,8 @@ $text-color: #fff !default;
 $bg-color: #000000;
 $card-bg-color: linear-gradient(
   145deg,
-  rgba(115, 115, 115, 0.15) 15%,
-  rgba(43, 45, 47, 1) 80%
+  rgba(43, 45, 120, 0.15) 15%,
+  rgba(20, 20, 20, 1) 80%
 );
 $primary-color: #0099ff;
 
@@ -319,7 +319,7 @@ a {
         colorEmail 1s linear forwards;
     }
     .social-svg {
-      fill: #d44638;
+      fill: #0099ff;
     }
   }
 
@@ -371,7 +371,7 @@ a {
 
   @keyframes colorEmail {
     to {
-      stroke: #b23121;
+      stroke: #0099ff;
     }
   }
 
