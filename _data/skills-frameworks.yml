@@ -5,29 +5,21 @@
 # - name: Framework
 #   weight: 5
 
-- name: Angular
+- name: Malware Analysis
   weight: 5
 
-- name: AngularJS
-  weight: 3
+- name: Reverse Engineering
+  weight: 5
 
-- name: React
+- name: .NET Reversing
   weight: 4
 
-- name: Node
-  weight: 1
-
-- name: Flutter
+- name: Android Reversing
   weight: 2
 
-- name: Express
+- name: File forensics
+  weight: 4
+
+- name: Memory forensics
   weight: 3
 
-- name: Django
-  weight: 1
-
-- name: Spring
-  weight: 2
-
-- name: Rails
-  weight: 4

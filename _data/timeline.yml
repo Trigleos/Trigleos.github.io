@@ -17,45 +17,53 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
+- title: University of Warwick Table Tennis Club
+  title-url: https://www.warwicksu.com/societies-sports/sports-clubs/tabletennis/
+  date: Mar 2021 - Present
+  subtitle: Publicity Officer
   tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
+    - tag: Azure
+    - tag: Wordpress
   timeline-side: right
 
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
+- title: Project Access International
+  title-url: https://projectaccess.org/home-page2021a
+  date: Sep 2020 - Present
+  subtitle: Enterprise Software Officer
   tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
+    - tag: Azure
+    - tag: Microsoft Power Automate
+    - tag: Azure AD
+  timeline-side: right
+  
+- title: University of Warwick Table Tennis Club
+  title-url: https://www.warwicksu.com/societies-sports/sports-clubs/tabletennis/
+  date: Mar 2020 - Mar 2021
+  subtitle: Treasurer
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+- title: Computer Incidence Response Center Luxembourg
+  title-url: https://circl.lu/
+  date: Jul 2020 - Aug 2021
+  subtitle: Security Researcher
+  tags:
+    - tag: python
+    - tag: mongoDB
+    - tag: elasticsearch
+  timeline-side: right
+
+- title: University of Warwick
+  title-url: https://warwick.ac.uk/
+  date: 2019 - 2022
+  subtitle: B.Sc. Cybersecurity
   timeline-side: left
 
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
+- title: Luxembourg Tech School
+  title-url: https://www.techschool.lu/
+  date: Sep 2018 - Sep 2019
+  subtitle: Teaching Assistant
   tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
+    - tag: Game Development
+    - tag: Fintech
+    - tag: AI
   timeline-side: right
-
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
-  timeline-side: left
