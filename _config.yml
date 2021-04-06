@@ -11,7 +11,7 @@ baseurl: ""
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
-username: Trigleos
+username: Pol
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
 typing_text: Cybersecurity student
@@ -21,7 +21,7 @@ email: pthill99@gmail.com
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
 github_username: Trigleos
-codepen_username: 
+codepen_username: test
 dev_username: 
 linkedin_username: pol-thill-985b02190
 twitter_username: tr3gleos
@@ -34,7 +34,10 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: Hello everyone my name is Pol/Trigleos and I’m a Cybersecurity student at the University of Warwick. I'm extremely interested in anything related to Cyberthreat Intelligence and Reverse Engineering, so that's what I spend most of my time working on. I'm currently looking for internship opportunities in and close to Europe, preferably in the space of Malware Analysis or Incident Response. I'm also currently working on setting up a blog where I'll write about CTFs and other Cybersecurity stuff.
+about_me_description: |
+  Hello everyone my name is Pol and I’m a Cybersecurity student at the University of Warwick. 
+  I'm extremely interested in anything related to Cyberthreat Intelligence and Reverse Engineering, so that's what I spend most of my time working on. 
+  I'm currently looking for internship opportunities in and close to Europe, preferably in the space of Malware Analysis or Incident Response.
 
 # SKILLS SECTION
 # show_skills_card:
